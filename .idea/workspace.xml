@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d713572a-6e95-42b6-ab7b-30eb2c6c0d3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_question_02/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_question_03/FindNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_question_04/ReplaceBlank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_question_05/PrintListReversingly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_question_06/ConstructBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview_question_07/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_question_08/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_question_09/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_question_10/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_question_11/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_question_12/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_question_13/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview_question_14/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,16 +24,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interview_question_07/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/interview_question_14/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <element signature="e#130#139#0" expanded="true" />
-                <element signature="e#180#189#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -50,9 +44,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>nxt</find>
+      <find>min</find>
     </findStrings>
     <replaceStrings>
       <replace>next</replace>
+      <replace>minNumberInRotateArray</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -73,6 +69,13 @@
         <option value="$PROJECT_DIR$/src/interview_question_05/PrintListReversingly.java" />
         <option value="$PROJECT_DIR$/src/interview_question_06/ConstructBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/interview_question_07/Solution.java" />
+        <option value="$PROJECT_DIR$/src/interview_question_08/Solution.java" />
+        <option value="$PROJECT_DIR$/src/interview_question_09/Solution.java" />
+        <option value="$PROJECT_DIR$/src/interview_question_10/Solution.java" />
+        <option value="$PROJECT_DIR$/src/interview_question_11/Solution.java" />
+        <option value="$PROJECT_DIR$/src/interview_question_12/Solution.java" />
+        <option value="$PROJECT_DIR$/src/interview_question_13/Solution.java" />
+        <option value="$PROJECT_DIR$/src/interview_question_14/Solution.java" />
       </list>
     </option>
   </component>
@@ -86,8 +89,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -123,6 +126,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="interview_question_06" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sword-refers-to-offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sword-refers-to-offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_question_11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sword-refers-to-offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sword-refers-to-offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_question_12" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -132,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558623193708" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558880986862" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_191/bin/jvisualvm.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -156,13 +171,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConstructBinaryTree">
-    <configuration name="ConstructBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview_question_06.ConstructBinaryTree" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_question_10.Solution" />
       <module name="sword-refers-to-offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview_question_06.*" />
+          <option name="PATTERN" value="interview_question_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview_question_03.FindNum" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_question_11.Solution" />
       <module name="sword-refers-to-offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview_question_03.*" />
+          <option name="PATTERN" value="interview_question_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintListReversingly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview_question_05.PrintListReversingly" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_question_12.Solution" />
       <module name="sword-refers-to-offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview_question_05.*" />
+          <option name="PATTERN" value="interview_question_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceBlank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview_question_04.ReplaceBlank" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_question_13.Solution" />
       <module name="sword-refers-to-offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview_question_04.*" />
+          <option name="PATTERN" value="interview_question_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview_question_02.Singleton" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_question_14.Solution" />
       <module name="sword-refers-to-offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview_question_02.*" />
+          <option name="PATTERN" value="interview_question_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConstructBinaryTree" />
-        <item itemvalue="Application.PrintListReversingly" />
-        <item itemvalue="Application.ReplaceBlank" />
-        <item itemvalue="Application.FindNum" />
-        <item itemvalue="Application.Singleton" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -243,27 +258,26 @@
       <option name="presentableId" value="Default" />
       <updated>1558600787881</updated>
       <workItem from="1558600794218" duration="3296000" />
-      <workItem from="1558614289058" duration="7085000" />
+      <workItem from="1558614289058" duration="7372000" />
+      <workItem from="1558661332608" duration="6593000" />
+      <workItem from="1558877034469" duration="3843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10381000" />
+    <option name="totallyTimeSpent" value="21104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32991204" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
@@ -277,6 +291,9 @@
       <window_info anchor="bottom" id="Problems" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32991204" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -356,13 +373,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ListNode.java" />
     <entry file="file://$PROJECT_DIR$/src/interview_question_06/ConstructBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-306">
@@ -383,14 +394,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interview_question_07/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="332">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
           <folding>
-            <element signature="e#130#139#0" expanded="true" />
-            <element signature="e#180#189#0" expanded="true" />
             <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview_question_08/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview_question_09/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="63" lean-forward="true" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview_question_10/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview_question_11/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview_question_12/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="59" column="60" selection-start-line="59" selection-start-column="60" selection-end-line="59" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview_question_13/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interview_question_14/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
